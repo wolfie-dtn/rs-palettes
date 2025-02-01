@@ -1,0 +1,21 @@
+Product: PM
+Units:   DBZ
+Step:    10
+
+Color4:	 0.0    255     255       0       50   RAIN
+Color4: 60.0    255     255       0      255   RAIN
+
+Color4:	-32.0	  0	255	255	  50   MIX
+Color4:	 86.5	  0	255	255	 255   MIX
+
+Color4:	-32.0	255	  0	255	  50   SNOW
+Color4:	 86.5	255	  0	255	 255   SNOW
+
+Color4:	 0.0	255	  0	  0	  50   IP
+Color4:	50.0	255	  0	  0	 255   IP
+
+Color4:	 0.0	  0	255	  0	  50   SN
+Color4:	50.0	  0	255	  0	 255   SN
+
+Color4:	 0.0	  0	  0	255	  50   ZR
+Color4:	50.0	  0	  0	255	 255   ZR
